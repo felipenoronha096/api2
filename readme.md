@@ -1,6 +1,8 @@
 // se não tenho o projeto
 1 npm init -y
-2 npm install express
+2 npm install
+3 npm install express
+4 npm install cors
 
 // se já tenho o projeto:
 git clone aqui_colar_url_github
